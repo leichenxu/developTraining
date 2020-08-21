@@ -1,1 +1,1 @@
-# developTrainning
+# developTraining repository
